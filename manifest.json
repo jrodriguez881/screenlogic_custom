@@ -2,6 +2,7 @@
   "domain": "screenlogic_custom",
   "name": "ScreenLogic Custom",
   "config_flow": true,
+  "requirements": ["screenlogicpy"],
   "documentation": "https://www.home-assistant.io/integrations/screenlogic",
   "iot_class": "local_polling"
 }
